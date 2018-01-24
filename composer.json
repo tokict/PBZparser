@@ -1,0 +1,22 @@
+{
+    "name": "tokict/pbz-parser",
+    "description": "Parse incoming payments in PDF reports from PBZ bank in Croatia",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tino",
+            "email": "tino@tokic.com.hr"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "smalot/pdfparser" : "*",
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "TokicT": "/"
+        }
+    }
+}
