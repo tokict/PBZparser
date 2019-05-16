@@ -1,4 +1,3 @@
-## Due to the recent possesion of Github by the devil, this repo has been abandoned and rehosted at https://gitlab.com/tokict/PBZparser
 
 
 # PBZparser
